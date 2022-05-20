@@ -6,10 +6,10 @@ Repositorio que será utilizado para testar o git e github e salvar comandos e d
 
 ## Funcionalidades
 
-- git stash
-- git stach pop
-- git stash list
-- git stash pop stash
+- git stash( salva alterações sem commit)
+- git stach pop(restaura alterações salvas)
+- git stash list (list staches)
+- git stash pop stash@{1} (aplica stach especifico)
 
 
 ## Para que serve
