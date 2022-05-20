@@ -9,7 +9,7 @@ Repositorio que será utilizado para testar o git e github e salvar comandos e d
 - git stash
 - git stach pop
 - git stash list
-- git stash pop stash@{1}
+- git stash pop stash
 
 
 ## Para que serve
