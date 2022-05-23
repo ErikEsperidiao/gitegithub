@@ -10,6 +10,9 @@ Repositorio que será utilizado para testar o git e github e salvar comandos e d
 - git stach pop(restaura alterações salvas)
 - git stash list (list staches)
 - git stash pop stash@{1} (aplica stach especifico)
+- inclusão de teste
+- inclusão de teste 2
+- inclusão de teste 3
 
 
 ## Para que serve
