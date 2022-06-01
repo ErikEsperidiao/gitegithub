@@ -11,8 +11,8 @@
 ## _Configuração inicial:_
 
 ```
-git config --global user.name 'Daniel Pinheiro'<br>
-git config --global user.email 'dyelzim@gmail.com'
+git config --global user.name <br>
+git config --global user.email
 ```
 
 > - Configurando o nome do usuário e email. <br>
