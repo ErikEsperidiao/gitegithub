@@ -2,10 +2,6 @@
 
 # Git e GitHub
 
-# beacademy-devstart-gitegithub
-> Repositório usado para publicação de projetos do programa Dev Start Paylivre junto com a Be Academy. <br>
-> Abaixo listarei os códigos, comandos e funções do **Git e Github** aprendidos e praticados no programa.
-
 # Comandos vistos no módulo Git e Github
 
 ## _Configuração inicial:_
